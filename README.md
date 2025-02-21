@@ -36,7 +36,15 @@ The Amazon store wants to analyze sales trends and patterns from 2010 to 2017 to
 - Among item types, the most sold products were cosmetics, with around 84,000 units, followed by clothes at approximately 71,000 units, and beverages at nearly 57,000 units. However, in terms of profitability, the leading categories were cosmetics, generating approximately $15 million in profit, household items with around $7 million, and office supplies at approximately $6 million.
 - Revenue from the highest-earning item types was led by cosmetics, generating approximately $37 million, followed by office supplies with around $31 million, and household items contributing nearly $30 million.
 
-## DashBoard
+## Dashboard
+![A1](https://github.com/user-attachments/assets/0502259a-0f44-447a-8fe5-0a53861218d9)
+![A2](https://github.com/user-attachments/assets/279d29df-a686-40ff-91c7-5ec4afc8ad48)
+![A3](https://github.com/user-attachments/assets/34b24629-e569-45fe-a482-672d0453ebea)
+![A4](https://github.com/user-attachments/assets/92644892-304e-47ee-9220-e9a3e718082e)
+
+
+
+
 
 
 
