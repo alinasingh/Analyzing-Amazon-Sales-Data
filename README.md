@@ -5,7 +5,7 @@ This project analyzed Amazon sales data trends, focusing on revenue, profit, cus
 The Amazon store wants to analyze sales trends and patterns from 2010 to 2017 to understand customer needs and preferences better. This evaluation aims to identify key areas for growth and provide strategic insights to enhance sales performance in the upcoming years.
 
 ## DateSet Used
-- 
+- <a href="https://github.com/alinasingh/Analyzing-Amazon-Sales-Data/blob/main/Amazon%20Sales%20data.csv">Amazon Sale Dataset
 
 
 ## Questions(KPIs)
