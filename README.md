@@ -23,10 +23,7 @@ The Amazon store wants to analyze sales trends and patterns from 2010 to 2017 to
 - DAX(Data Analysis Expressions)
 
 ## DashBoard
-![A1](https://github.com/user-attachments/assets/bc54fddc-9002-4dc7-909b-9f7a275bdcb3)
-![A2](https://github.com/user-attachments/assets/26282d98-7dde-430d-819a-9fca5fdac6d7)
-![A3](https://github.com/user-attachments/assets/ce80973b-3754-4dee-ac6a-4247bd2469e8)
-![A4](https://github.com/user-attachments/assets/42c4afd4-8e8d-477c-8968-0cee7d7b6023)
+
 
 
 
