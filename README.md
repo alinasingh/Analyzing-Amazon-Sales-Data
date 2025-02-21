@@ -4,6 +4,10 @@ This project analyzed Amazon sales data trends, focusing on revenue, profit, cus
 ## Project Objective
 The Amazon store wants to analyze sales trends and patterns from 2010 to 2017 to understand customer needs and preferences better. This evaluation aims to identify key areas for growth and provide strategic insights to enhance sales performance in the upcoming years.
 
+## DateSet Used
+- 
+
+
 ## Questions(KPIs)
 - Which region got the highest sales and profits?
 - Which channel is contributing the maximum profit to the Store?
