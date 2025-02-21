@@ -17,14 +17,24 @@ The Amazon store wants to analyze sales trends and patterns from 2010 to 2017 to
 - Which order priority generates the highest profit?
 
 ## Process
-- ETL step for understanding the data structure.
-- Made sure data is consistent and clean concerning data type and values used.
-- Verify data for missing values and anomalies, and sort out the same.
+- Conducted the ETL process to gain a comprehensive understanding of the data structure.
+- Ensured the consistency and cleanliness of data relating to the specified data types and values utilized.
+- Verified the dataset for missing values and anomalies, and addressed the identified issues accordingly.
+- Employed the DAX function to execute calculations within the dataset.
 
 ## Tools & Technologies
 - Power BI
 - Excel
 - DAX(Data Analysis Expressions)
+
+## Project Insights
+- From 2010 to 2017, the regions of Sub-Saharan Africa, Europe, and Asia generated the highest profits and revenue.
+- In terms of units sold, the leading regions were Sub-Saharan Africa (~183,000 units), Europe (~98,000 units), and Australia and Oceania (~68,000 units).
+- The highest revenue was recorded in the years 2012 ($32 million),2013($20 million) and 2010 ($19 million).
+- Additionally, offline channels accounted for the largest share of profits, contributing approximately 56.5%.
+- Regarding order priority, the highest number of units sold was categorized under priority level "H," which accounted for approximately 30.7% of total sales.
+- Among item types, the most sold products were cosmetics, with around 84,000 units, followed by clothes at approximately 71,000 units, and beverages at nearly 57,000 units. However, in terms of profitability, the leading categories were cosmetics, generating approximately $15 million in profit, household items with around $7 million, and office supplies at approximately $6 million.
+- Revenue from the highest-earning item types was led by cosmetics, generating approximately $37 million, followed by office supplies with around $31 million, and household items contributing nearly $30 million.
 
 ## DashBoard
 
