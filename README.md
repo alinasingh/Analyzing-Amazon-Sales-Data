@@ -43,7 +43,7 @@ This project analyzed Amazon sales data trends, focusing on revenue, profit, cus
 ![A4](https://github.com/user-attachments/assets/92644892-304e-47ee-9220-e9a3e718082e)
 
 
-
+https://github.com/user-attachments/assets/7c2061a4-9137-4e59-b5eb-dd4b32212819
 
 
 
