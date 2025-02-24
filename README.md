@@ -37,14 +37,7 @@ This project analyzed Amazon sales data trends, focusing on revenue, profit, cus
 - Revenue from the highest-earning item types was led by **cosmetics**, generating approximately **$37 million**, followed by **office supplies** with around **$31 million**, and **household** items contributing nearly **$30 million**.
 
 ## Dashboard
-![A1](https://github.com/user-attachments/assets/0502259a-0f44-447a-8fe5-0a53861218d9)
-![A2](https://github.com/user-attachments/assets/279d29df-a686-40ff-91c7-5ec4afc8ad48)
-![A3](https://github.com/user-attachments/assets/34b24629-e569-45fe-a482-672d0453ebea)
-![A4](https://github.com/user-attachments/assets/92644892-304e-47ee-9220-e9a3e718082e)
-
-
-https://github.com/user-attachments/assets/7c2061a4-9137-4e59-b5eb-dd4b32212819
-
+https://github.com/user-attachments/assets/9c6a9a55-f264-4c5a-90db-44657dec5402
 
 
 
